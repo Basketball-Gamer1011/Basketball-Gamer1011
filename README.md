@@ -1,5 +1,1 @@
-Hi! I enjoy programming with:
--Python
--HTML
-and
--CSS
+Hi! I enjoy programming with Python, HTML and CSS.
