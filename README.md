@@ -1,5 +1,7 @@
 # Lexicled
-## About me
+  <h2>About Me</h2>
+  
+[![Lexicled's github stats](https://github-readme-stats.vercel.app/api?username=Lexicled&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexicled&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ### A short introduction
 **Hi!** 👋 My name is **Alex (AKA Lexicled)**, and I enjoy programming with **Python**, **HTML** and **CSS**.
 ### My interests
