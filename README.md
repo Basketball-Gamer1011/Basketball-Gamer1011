@@ -5,7 +5,7 @@
 ### A short introduction
 **Hi!** 👋 My name is **Alex**, and I enjoy programming with **Python** and **Java**, and am looking into **C++**.
 ### My interests
-I am very interested in most things to do with programming, mainly AI and game development.
+I'm interested in most things to do with programming, mainly AI and gamedev. I'm also running a small-scale TikTok account that covers tech news, so reach out if you have any advice in that area!
 ## Skills
 ### Programming Languages
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
